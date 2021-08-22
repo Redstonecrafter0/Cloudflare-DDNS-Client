@@ -1,6 +1,6 @@
 # Config
 Save your config on the same folder as `main.py`.
-```json
+```json5
 {
   "last_ip": "", // ignore this
   "zone_id": "", // the zone id of your domain
